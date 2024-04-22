@@ -1,1 +1,1 @@
-- ![#c5f015] Rules `#c5f015`
+<span style="color: green"> RULES: </span>
