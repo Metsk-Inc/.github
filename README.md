@@ -1,2 +1,2 @@
-#$${\color{red}RULES:}$$ 
+# $${\color{red}RULES:}$$ 
 + There is no rules.
